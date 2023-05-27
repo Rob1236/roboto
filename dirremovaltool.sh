@@ -24,7 +24,7 @@ else
                 echo -ne " "
             done
             echo -ne "] $((i*10))%"
-            sleep 0.1
+            sleep 0.05
             echo -ne "\r"
         done
 	
